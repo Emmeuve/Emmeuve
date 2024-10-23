@@ -56,6 +56,6 @@ Instagram
 Dev.to 
 Medium
 
-📫 Get in Touch
+📫 Buscame
 
-LinkedIn: www.linkedin.com/in/emmeuve
+LinkedIn: www.linkedin.com/in/michelvalenzuelacastillo
