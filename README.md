@@ -56,3 +56,6 @@ Instagram
 Dev.to 
 Medium
 
+📫 Get in Touch
+
+LinkedIn: www.linkedin.com/in/emmeuve
