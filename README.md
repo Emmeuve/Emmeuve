@@ -1,5 +1,6 @@
-HOLA 👋, Soy Michel Valenzuela C y estoy emocionado de formar parte del Bootcamp de Desarrollo Ruby on Rails (G44). 
-Mi objetivo es desarrollar las habilidades necesarias para convertirme en un desarrollador full-stack capaz de construir aplicaciones web robustas y escalables. A través de este programa, aprenderé a utilizar tecnologías como Ruby on Rails, PostgreSQL, HTML, CSS, JavaScript y herramientas de control de versiones. Además, adquirir conocimientos en metodologías ágiles y diseño centrado en el usuario me permitirán crear productos digitales que satisfagan las necesidades de los usuarios.
+HOLA 👋,Soy Michel Valenzuela C., profesional del diseño con sólida experiencia en entornos digitales y tecnológicos. Tras completar el Bootcamp de Ruby on Rails para startups y especializarme en Diseño UX/UI, me he enfocado en construir soluciones web intuitivas, funcionales y visualmente atractivas.
+Domino herramientas como Figma, HTML, CSS, JavaScript, Git y PostgreSQL, lo que me permite aportar tanto en la creación de interfaces como en su implementación técnica. Mi experiencia previa en sistemas complejos (AS400, SAP, AWS) potencia mi visión analítica y orientada al usuario.
+Busco integrarme a proyectos donde pueda combinar creatividad, diseño centrado en el usuario y desarrollo front-end para crear experiencias digitales memorables.
 
 🌐 Enlaces útiles
 
