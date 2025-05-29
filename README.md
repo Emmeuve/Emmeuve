@@ -10,7 +10,7 @@ Busco integrarme a proyectos donde pueda combinar creatividad, diseño centrado 
 
 💬 Pregúntame sobre Diseño
 
-Puedes contactarme a través de mi correo electrónico: michelvalenzuelacas@gmail.com
+Puedes contactarme a través de mi correo electrónico: michelvalencastillo@gmail.com
 
 🧑‍💻 Lenguajes de programación
 
