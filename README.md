@@ -1,4 +1,26 @@
-# ¡Hola! 👋 Soy Michel Valenzuela C.
+## 📫 Contacto
+
+¿Tienes un proyecto en mente o quieres colaborar? ¡Hablemos!
+
+📧 **Email**: [michelvalencastillo@gmail.com](mailto:michelvalencastillo@gmail.com)  
+💼 **LinkedIn**: [michelvalenzuelacastillo](https://www.linkedin.com/in/michelvalenzuelacastillo)  
+💻 **GitHub**: [Emmeuve](https://github.com/Emmeuve)
+
+💬 Pregúntame sobre **Diseño UX/UI** y **Desarrollo Web**
+
+---
+
+## 🌐 Encuéntrame en
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelvalenzuelacastillo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmeuve)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/tuusuario)
+
+</div>
+
+---# ¡Hola! 👋 Soy Michel Valenzuela C.
 
 ## 🎯 Sobre mí
 
@@ -41,47 +63,11 @@ Mi experiencia previa en sistemas complejos (AS400, SAP, AWS) potencia mi visió
 
 ---
 
-## 📂 Proyectos
+## 📂 Proyectos Destacados
 
-👨‍💻 Todos mis proyectos están disponibles en:
-- **GitHub**: Revisa mi código y contribuciones
-- **Behance**: Explora mis trabajos de diseño
-
----
-
-## 📫 Contacto
-
-¿Tienes un proyecto en mente o quieres colaborar? ¡Hablemos!
-
-- 📧 **Email**: [michelvalencastillo@gmail.com](mailto:michelvalencastillo@gmail.com)
-- 💼 **LinkedIn**: [michelvalenzuelacastillo](https://www.linkedin.com/in/michelvalenzuelacastillo)
-- 💬 Pregúntame sobre **Diseño UX/UI**
-
----
-
-## 🌐 Encuéntrame en
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelvalenzuelacastillo)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmeuve)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/tucanal)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tuusuario)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tuusuario)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/tuusuario)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tuusuario)
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmeuve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmeuve&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmeuve&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd)
-
-</div>
+Explora mi trabajo:
+- **💻 [GitHub](https://github.com/Emmeuve)**: Código, proyectos y contribuciones
+- **🎨 [Behance](https://www.behance.net/tuusuario)**: Portfolio de diseño UX/UI
 
 ---
 
