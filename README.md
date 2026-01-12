@@ -62,7 +62,7 @@ Mi experiencia previa en sistemas complejos (AS400, SAP, AWS) potencia mi visió
 ## 🌐 Encuéntrame en
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelvalenzuelacastillo)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmeuve)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/tucanal)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tuusuario)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tuusuario)
@@ -75,11 +75,11 @@ Mi experiencia previa en sistemas complejos (AS400, SAP, AWS) potencia mi visió
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=github.com/Emmeuve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmeuve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/Emmeuve&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmeuve&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=github.com/Emmeuve&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmeuve&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd)
 
 </div>
 
