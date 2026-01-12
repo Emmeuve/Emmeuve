@@ -73,9 +73,15 @@ Mi experiencia previa en sistemas complejos (AS400, SAP, AWS) potencia mi visió
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmeuve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmeuve&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmeuve&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd)
+
+</div>
 
 ---
 
