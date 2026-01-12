@@ -1,62 +1,82 @@
-HOLA 👋,Soy Michel Valenzuela C., profesional del diseño con sólida experiencia en entornos digitales y tecnológicos. Tras completar el Bootcamp de Ruby on Rails para startups y especializarme en Diseño UX/UI, me he enfocado en construir soluciones web intuitivas, funcionales y visualmente atractivas.
-Domino herramientas como Figma, HTML, CSS, JavaScript, Git y PostgreSQL, lo que me permite aportar tanto en la creación de interfaces como en su implementación técnica. Mi experiencia previa en sistemas complejos (AS400, SAP, AWS) potencia mi visión analítica y orientada al usuario.
-Busco integrarme a proyectos donde pueda combinar creatividad, diseño centrado en el usuario y desarrollo front-end para crear experiencias digitales memorables.
+# ¡Hola! 👋 Soy Michel Valenzuela C.
 
-🌐 Enlaces útiles
+## 🎯 Sobre mí
 
-👨‍💻 Todos mis proyectos están disponibles en Github y Behance
+Profesional del diseño con sólida experiencia en entornos digitales y tecnológicos. Especializado en **Diseño UX/UI** y **Desarrollo Web Full Stack** con Ruby on Rails.
 
-💡 Habilidades y conocimientos
+Me apasiona construir soluciones web intuitivas, funcionales y visualmente atractivas que generen experiencias digitales memorables. Combino creatividad, diseño centrado en el usuario y desarrollo front-end para crear productos que realmente importen.
 
-💬 Pregúntame sobre Diseño
+Mi experiencia previa en sistemas complejos (AS400, SAP, AWS) potencia mi visión analítica y orientada al usuario.
 
-Puedes contactarme a través de mi correo electrónico: michelvalencastillo@gmail.com
+---
 
-🧑‍💻 Lenguajes de programación
+## 🚀 Stack Tecnológico
 
-Ruby 
+### 💻 Lenguajes
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-🎨 Desarrollo Frontend
+### 🎨 Frontend
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-HTML5 CSS3 Bootstrap
+### ⚙️ Backend
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-🔨 Desarrollo Backend
+### 🗄️ Base de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Ruby on Rails
+### 🛠️ Herramientas y Plataformas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-🔧 Base de datos
+### 🎨 Diseño
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-PostgreSQL 
+---
 
-📎 Platform as a Service (PaaS)
+## 📂 Proyectos
 
-Heroku
+👨‍💻 Todos mis proyectos están disponibles en:
+- **GitHub**: Revisa mi código y contribuciones
+- **Behance**: Explora mis trabajos de diseño
 
-📝 Version control system
+---
 
-Git GitHub
+## 📫 Contacto
 
-🗃️ Software
+¿Tienes un proyecto en mente o quieres colaborar? ¡Hablemos!
 
-Visual Studio Code  
-Windows Figma 
-Adobe XD 
-Invision 
-Adobe Illustrator 
-Adobe Photoshop  
-Notion 
-Discord
+- 📧 **Email**: [michelvalencastillo@gmail.com](mailto:michelvalencastillo@gmail.com)
+- 💼 **LinkedIn**: [michelvalenzuelacastillo](https://www.linkedin.com/in/michelvalenzuelacastillo)
+- 💬 Pregúntame sobre **Diseño UX/UI**
 
-🌐 Redes sociales
+---
 
-LinkedIn 
-GitHub 
-YouTube 
-X
-Instagram 
-Dev.to 
-Medium
+## 🌐 Encuéntrame en
 
-📫 Buscame
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelvalenzuelacastillo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/tucanal)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tuusuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tuusuario)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/tuusuario)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tuusuario)
 
-LinkedIn: www.linkedin.com/in/michelvalenzuelacastillo
+---
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+
+---
+
+⭐️ Si te gusta mi trabajo, ¡no dudes en darle una estrella a mis repositorios!
